@@ -34,8 +34,8 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
   }
 
   //
-  // @developedbyafif
-  // afifudinx.vercel.app
+  // @afifcodes
+  // afifcodes.vercel.app
   //
 
   @override

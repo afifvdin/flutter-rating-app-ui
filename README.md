@@ -7,7 +7,7 @@ void main() =>
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-rating-app.git
+git clone https://github.com/afifcodes/flutter-rating-app.git
 cd flutter-rating-app
 flutter pub get
 flutter run
@@ -18,6 +18,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app)
-* [Youtube channel](https://youtube.com/developedbyafif)
-* [Instagram](https://instagram.com/developedbyafif)
+* [Website](https://afifcodes.vercel.app)
+* [Youtube channel](https://youtube.com/afifcodes)
+* [Instagram](https://instagram.com/afifcodes)
