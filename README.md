@@ -7,8 +7,8 @@ void main() =>
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-rating-app-example.git
-cd flutter-rating-app-example
+git clone https://github.com/afifcodes/flutter-rating-app-ui.git
+cd flutter-rating-app-ui
 flutter pub get
 flutter run
 ```
