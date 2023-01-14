@@ -1,4 +1,4 @@
-## Flutter UI - Rating App
+## Flutter UI - Rating App Example
 
 ```dart
 void main() =>
@@ -7,8 +7,8 @@ void main() =>
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-rating-app.git
-cd flutter-rating-app
+git clone https://github.com/afifcodes/flutter-rating-app-example.git
+cd flutter-rating-app-example
 flutter pub get
 flutter run
 ```
